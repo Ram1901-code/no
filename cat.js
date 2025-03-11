@@ -47,5 +47,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-  window.location.href = "";
+  window.location.href = "https://ram1901-code.github.io/yes/catyes.html";
 }
